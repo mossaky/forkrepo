@@ -1,0 +1,7 @@
+vendor
+.bundle
+tmp
+*.gem
+Gemfile.lock
+.ruby-version
+.rvmrc
